@@ -10,4 +10,4 @@ The file for second question can be run similarly
 ```
 python3 question1b.py
 ```
-The program will ask the location of the csv file as input as well as the loaction of the json file.The output will be printed on console.
+The program will ask the location of the csv file as input as well as the location of the json file.The output will be printed on console.
